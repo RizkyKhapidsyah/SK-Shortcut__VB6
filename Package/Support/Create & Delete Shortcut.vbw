@@ -1,0 +1,4 @@
+BrowseForShortcutFolder = 0, 0, 0, 0, C
+FileOpenforShortcut = 0, 0, 0, 0, C
+DeleteShortcut = 0, 0, 0, 0, C, 78, 78, 867, 504, C
+CreateDeleteShortcut = 0, 0, 0, 0, C, 52, 52, 841, 478, C
